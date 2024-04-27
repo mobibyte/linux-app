@@ -1,0 +1,31 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Mobi app for Linux",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobibyte/linux-app.git"
+  },
+  "keywords": [
+    "mobi",
+    "linux",
+    "electron",
+    "byte",
+    "social",
+    "coding"
+  ],
+  "author": "Mobi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobibyte/linux-app/issues"
+  },
+  "homepage": "https://github.com/mobibyte/linux-app#readme",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
